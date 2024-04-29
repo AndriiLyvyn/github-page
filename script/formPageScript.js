@@ -318,6 +318,6 @@ function validateForm() {
 //Funkcja przekierowuję do  strony Home Page i usuwa dane lockal Storege 
 
 $backToHomePage.addEventListener("click", () => {
-  window.location.href = "index.html";
+  window.location.href = "https://github.com/AndriiLyvyn/github-page/index.html";
   localStorage.clear();
 });
