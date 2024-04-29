@@ -1,0 +1,80 @@
+[{
+     "name":"BMW",
+     "price":123000,
+     "age":5,
+     "carMileage": "20000 KM",
+     "power": "145 KM",
+     "image": "/image/BMW.jpg"
+},
+{
+     "name":"Audi",
+     "price":9000,
+     "age":10,
+     "carMileage": "300000 KM",
+     "power": "65 KM",
+     "image": "/image/Audi.jpg"
+},  
+{
+     "name":"Mercedes",
+     "price":13000,
+     "age":10,
+     "carMileage": "100 KM",
+     "power": "15 KM",
+     "image": "/image/Mercedes.jpg"
+},
+{
+     "name":"Toyota",
+     "price":17000,
+     "age":8,
+     "carMileage": "2200 KM",
+     "power": "67 KM",
+     "image": "/image/Toyota.jpg"
+},
+{
+     "name":"Mercedes-Bens",
+     "price":35000,
+     "age":2,
+     "carMileage": "12 KM",
+     "power": "56 KM",
+     "image": "/image/Mecedes-bens.jpg"
+},{
+     "name":"Mustang C3",
+     "price":122000,
+     "age":1,
+     "carMileage": "1200 KM",
+     "power": "20 KM",
+     "image": "/image/mustang.png"
+},
+{
+     "name":"Porsche",
+     "price":11000,
+     "age":8,
+     "carMileage": "30 KM",
+     "power": "56 KM",
+     "image": "/image/porsche.png"
+},
+{
+     "name":"Mustang GT500",
+     "price":127000,
+     "age":6,
+     "carMileage": "2200 KM",
+     "power": "26 KM",
+     "image": "/image/mustang2.jpg"
+},
+{
+     "name":"Alpha Romeo",
+     "price":7000,
+     "age":4,
+     "carMileage": "4200 KM",
+     "power": "67 KM",
+     "image": "/image/AlfaRomeo.jpg"
+},
+{
+     "name":"Audi A5",
+     "price":10000,
+     "age":9,
+     "carMileage": "220 KM",
+     "power": "67 KM",
+     "image": "/image/AudiA5.jpg"
+}
+]
