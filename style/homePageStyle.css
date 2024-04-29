@@ -10,7 +10,7 @@ body {
   background-size: cover;
 }
 .welcomeSection {
-  width: 90%;
+  width: 100%;
   border-radius: 12px;
   backdrop-filter: blur(5px);
   background-color: rgba(255, 255, 255, 0.5);
