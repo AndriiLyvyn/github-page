@@ -24,7 +24,7 @@ body {
 
 
 #displayCarts {
-  width: 100%;
+  width: 90%;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
