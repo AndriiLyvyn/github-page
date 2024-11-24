@@ -4,7 +4,7 @@
      "age":5,
      "carMileage": "20000 KM",
      "power": "145 KM",
-     "image": "https://andriilyvyn.github.io/github-page/image/BMW.jpg"
+     "image": "/image/BMW.jpg"
 },
 {
      "name":"Audi",
@@ -12,7 +12,7 @@
      "age":10,
      "carMileage": "300000 KM",
      "power": "65 KM",
-     "image": "https://andriilyvyn.github.io/github-page/image/Audi.jpg"
+     "image": "/image/Audi.jpg"
 },  
 {
      "name":"Mercedes",
@@ -20,7 +20,7 @@
      "age":10,
      "carMileage": "100 KM",
      "power": "15 KM",
-     "image": "https://andriilyvyn.github.io/github-page/image/Mercedes.jpg"
+     "image": "/image/Mercedes.jpg"
 },
 {
      "name":"Toyota",
@@ -28,7 +28,7 @@
      "age":8,
      "carMileage": "2200 KM",
      "power": "67 KM",
-     "image": "https://andriilyvyn.github.io/github-page/image/Toyota.jpg"
+     "image": "/image/Toyota.jpg"
 },
 {
      "name":"Mercedes-Bens",
@@ -36,14 +36,14 @@
      "age":2,
      "carMileage": "12 KM",
      "power": "56 KM",
-     "image": "https://andriilyvyn.github.io/github-page/image/Mecedes-bens.jpg"
+     "image": "/image/Mecedes-bens.jpg"
 },{
      "name":"Mustang C3",
      "price":122000,
      "age":1,
      "carMileage": "1200 KM",
      "power": "20 KM",
-     "image": "https://andriilyvyn.github.io/github-page/image/mustang.png"
+     "image": "/image/mustang.png"
 },
 {
      "name":"Porsche",
@@ -51,7 +51,7 @@
      "age":8,
      "carMileage": "30 KM",
      "power": "56 KM",
-     "image": "https://andriilyvyn.github.io/github-page/image/porsche.png"
+     "image": "/image/porsche.png"
 },
 {
      "name":"Mustang GT500",
@@ -59,7 +59,7 @@
      "age":6,
      "carMileage": "2200 KM",
      "power": "26 KM",
-     "image": "https://andriilyvyn.github.io/github-page/image/mustang2.jpg"
+     "image": "/image/mustang2.jpg"
 },
 {
      "name":"Alpha Romeo",
@@ -67,7 +67,7 @@
      "age":4,
      "carMileage": "4200 KM",
      "power": "67 KM",
-     "image": "https://andriilyvyn.github.io/github-page/image/AlfaRomeo.jpg"
+     "image": "/image/AlfaRomeo.jpg"
 },
 {
      "name":"Audi A5",
@@ -75,6 +75,6 @@
      "age":9,
      "carMileage": "220 KM",
      "power": "67 KM",
-     "image": "https://andriilyvyn.github.io/github-page/image/AudiA5.jpg"
+     "image": "/image/AudiA5.jpg"
 }
 ]
